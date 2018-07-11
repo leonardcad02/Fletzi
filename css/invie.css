@@ -1,0 +1,38 @@
+
+body{
+  font-family: 'Roboto', sans-serif; 
+}
+.titulo{
+    font-size: 72px;
+    font-family: 'Montserrat', sans-serif;
+}
+.title-a{
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+.title-b{
+    font-size: 50px;
+}
+
+.guitarras{
+    color: #1f313c;
+}
+
+.guitarras h2{
+    font-size: 35px;
+    font-family: 'Montserrat', sans-serif;
+}
+.portada{
+    background-image:url("../imagenes/background.png");  
+    color: white; 
+}
+.menu{
+    font-size: 24px;
+    display: inline-block;
+}
+.menu li{
+  display: inline-block;
+}
+.logotipo{
+  display: inline-block;
+}
